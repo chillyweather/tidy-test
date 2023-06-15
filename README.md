@@ -1,2 +1,1 @@
-# tidy-test
-test repo for some bullshit ideas
+console.log("Hello, world!");
